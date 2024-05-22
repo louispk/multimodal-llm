@@ -29,9 +29,11 @@ git clone <repository-url>
 pip install -r requirements.txt
 ```
 
-4. Run the Streamlit application:
+4. Insert your output .csv files into the 'Input_files' folder
+
+5. Run the Streamlit application:
 ```bash
-streamlit run app.py
+streamlit run multimodal_annotator.py
 ```
 
 ## Usage
