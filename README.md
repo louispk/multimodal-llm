@@ -29,7 +29,7 @@ git clone <repository-url>
 pip install -r requirements.txt
 ```
 
-4. Insert your output .csv files into the 'Input_files' folder
+4. Insert your output .csv files into the ```Input_files``` folder
 
 5. Run the Streamlit application:
 ```bash
