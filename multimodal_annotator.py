@@ -232,7 +232,7 @@ class MultimodalAnnotator:
 
         st.write("The Multimodal Output Analysis Tool (MOAT) helps analyze and understand the output of a Multimodal LLM.")
         st.write("--------")
-        folder_path = '/Users/louis/Documents/MA_code/multimodal-llm/scienceqa_files/'
+        folder_path = './Input_files/'
         self.load_data(folder_path)
 
         col1, col2 = st.columns(2)
